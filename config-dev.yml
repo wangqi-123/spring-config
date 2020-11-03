@@ -3,4 +3,4 @@ server:
   port:
     8080
 config:
-  info: 123456789
+  info: 1
