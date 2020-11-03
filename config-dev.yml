@@ -2,3 +2,5 @@
 server:
   port:
     8080
+config:
+  info: "成功"
